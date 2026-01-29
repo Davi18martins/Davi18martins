@@ -4,8 +4,14 @@
 
 - 👯 Estou procurando oportunidades de colaboração em Front-end, envolvendo temas Progamação Web, e Progamação em Dispositivos.
 
-- 🤔 Preciso de ajuda com Java.  
+- 🤔 Preciso de ajuda com Java.
 
-##Minhas Estatísticas
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## Minhas Estatísticas
+
+![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/apiusername=Davi18martins&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+## Tecnologias que mais utilizo
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,github,figma,vscode,windows,mysql,react)](https://skillicons.dev)
