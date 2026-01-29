@@ -1,5 +1,8 @@
 # Olá ! Eu sou o Davi de Jesus Martins 👋
 
 - 🌱 Atualmente estou aprendendo Técnico de Desenvolvimento de Sistemas.
+<br>
 - 👯 Estou procurando oportunidades de colaboração em Front-end, envolvendo temas Progamação Web, e Progamação em Dispositivos.
+<br>
 - 🤔 Preciso de ajuda com Java.
+<br>
