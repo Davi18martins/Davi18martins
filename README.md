@@ -10,7 +10,7 @@
 
 ## Minhas Estatísticas
 
-![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/apiusername=Davi18martins&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=Davi18martins&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Tecnologias que mais utilizo
 
