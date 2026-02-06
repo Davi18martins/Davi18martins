@@ -15,3 +15,11 @@
 ## Tecnologias que mais utilizo
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,github,figma,vscode,windows,mysql,react)](https://skillicons.dev)
+## 🌐 Minhas Redes Sociais
+
+<div align="left">
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
